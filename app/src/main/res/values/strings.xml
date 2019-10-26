@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">save</string>
+    <string name="discard">discard changes</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="note">Note</string>
+    <string name="record_note">record note</string>
+</resources>

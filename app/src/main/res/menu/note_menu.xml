@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.devmohamedibrahim1997.noteapp.UI.NoteActivity">
+
+    <item
+        android:id="@+id/saveNote"
+        android:title="@string/save"
+        android:icon="@drawable/ic_save"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/recordNote"
+        android:title="@string/record_note"
+        android:icon="@drawable/record_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="50"/>
+
+</menu>
